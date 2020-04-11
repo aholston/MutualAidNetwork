@@ -9,7 +9,7 @@ https://www.vice.com/en_us/article/y3mkjv/what-is-mutual-aid-and-how-can-it-help
 3. Install pipenv  `pip3 install pipenv`
 4. Clone Repo
 5. In repo directory, run `pipenv shell`. This will open up a virtual environment for all your developing. Remember, anytime you're making changes to code to be in the shell environment.
-6. Run `pipenv install django djangorestframework django-rest-knox` (This is the Django framework, the REST framework, and the token authentication)
+6. Run `pipenv install` (This is the Django framework, the REST framework, and the token authentication)
 7. (Skip this for now) You may need to install the Python and MySQL development headers and libraries like so: `brew install mysql-client`
 8. Run `npm install` to install all of the dependencies
 
