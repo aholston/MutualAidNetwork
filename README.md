@@ -18,7 +18,7 @@ To start your server, navigate to your root directory and run `python manage.py 
 To compile your React code, run `npm run dev` for development. For deploy, we run `npm run build`
 
 
-
+### Documentation
 Django REST Famework
 https://www.django-rest-framework.org/
 
@@ -27,4 +27,8 @@ https://docs.djangoproject.com/en/3.0/
 
 Django REST knox
 https://github.com/James1345/django-rest-knox
+
+### Useful tools 
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
 
