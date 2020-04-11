@@ -1,4 +1,4 @@
-https://github.com/aholston/MutualAidNetwork/issues/4
+https://www.nytimes.com/2020/03/23/opinion/coronavirus-aid-group.html
 
 ^ I think this is the best overall description of what this application is meant to be.
 
