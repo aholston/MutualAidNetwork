@@ -7,4 +7,4 @@
 5. In repo directory, run `pipenv shell`. This will open up a virtual environment for all your developing
 6. Run `pipenv install django djangorestframework django-rest-knox` (This is the Django framework, the REST framework, and the token authentication)
 7. You may need to install the Python and MySQL development headers and libraries like so: `brew install mysql-client`
-8. Install Django `python -m pip install Django`
+
