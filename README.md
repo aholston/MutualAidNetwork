@@ -1,3 +1,7 @@
+https://github.com/aholston/MutualAidNetwork/issues/4
+
+^ I think this is the best overall description of what this application is meant to be.
+
 ### Setup Environment
 
 1. Install Python (Ensure you have atlas Python 3 by running python —version) https://www.python.org/downloads/
