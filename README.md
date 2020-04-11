@@ -4,7 +4,7 @@ https://www.nytimes.com/2020/03/23/opinion/coronavirus-aid-group.html
 
 ### Setup Environment
 
-1. Install Python (Ensure you have atleast Python 3 by running python —version) https://www.python.org/downloads/
+1. Install Python (Ensure you have atleast Python 3 by running `python —version`) https://www.python.org/downloads/
 2. Install pip(pip is the package installer for Python. You can use pip to install packages from the Python Package Index and other indexes): `curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py` `python get-pip.py`
 3. Install pipenv  `pip3 install pipenv`
 4. Clone Repo
