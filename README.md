@@ -31,6 +31,12 @@ https://github.com/James1345/django-rest-knox
 Axios
 https://github.com/axios/axios
 
+React
+https://reactjs.org/docs/getting-started.html
+
+Redux
+https://redux.js.org/
+
 ### Useful tools 
 https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
 https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
