@@ -1,4 +1,4 @@
-https://www.nytimes.com/2020/03/23/opinion/coronavirus-aid-group.html
+https://www.vice.com/en_us/article/y3mkjv/what-is-mutual-aid-and-how-can-it-help-with-coronavirus
 
 ^ I think this is the best overall description of what this application is meant to be.
 
