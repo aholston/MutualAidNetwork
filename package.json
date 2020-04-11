@@ -4,7 +4,7 @@
   "description": "1. Install Python (Ensure you have atlas Python 3 by running python —version) https://www.python.org/downloads/ 2. Install pip(pip is the package installer for Python. You can use pip to install packages from the Python Package Index and other indexes): `curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py` `python get-pip.py` 3. Install pipenv  `pip3 install pipenv` 4. Clone Repo 5. In repo directory, run `pipenv shell`. This will open up a virtual environment for all your developing 6. Run `pipenv install django djangorestframework django-rest-knox` (This is the Django framework, the REST framework, and the token authentication) 7. You may need to install the Python and MySQL development headers and libraries like so: `brew install mysql-client`",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack --mode development ./MutualAidNetwork/frontend/src/index.js --output ./MutualAidNetwork/frontend/static/frontend/main.js",
+    "dev": "webpack --mode development --watch ./MutualAidNetwork/frontend/src/index.js --output ./MutualAidNetwork/frontend/static/frontend/main.js",
     "build": "webpack --mode production ./MutualAidNetwork/frontend/src/index.js --output ./MutualAidNetwork/frontend/static/frontend/main.js"
   },
   "repository": {
@@ -28,8 +28,13 @@
     "webpack-cli": "^3.3.11"
   },
   "dependencies": {
+    "axios": "^0.19.2",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0"
   }
 }
