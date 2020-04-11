@@ -10,7 +10,7 @@ https://www.nytimes.com/2020/03/23/opinion/coronavirus-aid-group.html
 4. Clone Repo
 5. In repo directory, run `pipenv shell`. This will open up a virtual environment for all your developing. Remember, anytime you're making changes to code to be in the shell environment.
 6. Run `pipenv install django djangorestframework django-rest-knox` (This is the Django framework, the REST framework, and the token authentication)
-7. You may need to install the Python and MySQL development headers and libraries like so: `brew install mysql-client`
+7. (Skip this for now) You may need to install the Python and MySQL development headers and libraries like so: `brew install mysql-client`
 8. Run `npm install` to install all of the dependencies
 
 To start your server, navigate to your root directory and run `python manage.py runserver`. This will fire up your environment on localhost:8000
