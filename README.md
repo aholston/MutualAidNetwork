@@ -28,6 +28,9 @@ https://docs.djangoproject.com/en/3.0/
 Django REST knox
 https://github.com/James1345/django-rest-knox
 
+Axios
+https://github.com/axios/axios
+
 ### Useful tools 
 https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
 https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
