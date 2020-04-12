@@ -23,7 +23,6 @@ export class Form extends Component {
     e.preventDefault();
     const { first_name, last_name, email } = this.state;
     const user = { first_name, last_name, email };
-    console.log(user);
     this.props.addUser(user);
   };
 
