@@ -12,13 +12,13 @@ class Alerts extends Component {
     const { error, alert } = this.props;
     if (error !== prevProps.error) {
       if (error.msg.first_name) {
-        alert.error("First Name is required");
+        alert.error(`First Name: ${error.msg.first_name.join()}`);
       }
       if (error.msg.last_name) {
-        alert.error("Last Name is required");
+        alert.error(`Last Name: ${error.msg.last_name.join()}`);
       }
       if (error.msg.email) {
-        alert.error("Email is required");
+        alert.error(`Email: ${error.msg.email.join()}`);
       }
     }
   }
